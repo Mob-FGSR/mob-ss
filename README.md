@@ -31,7 +31,6 @@ Comparison of super resolution (SR) and frame generation (FG) results. The left 
       └── 1080p_vsr_itp/        # SR + frame interpolation output
 1_LUT_VSR/                 # Lightweight LUT-based SR
 2_FG/                      # Frame interpolation module
-3_UE/                      # TODO: Unreal Engine plugin integration
 README.md
 ```
 
